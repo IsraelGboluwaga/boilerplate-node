@@ -1,4 +1,4 @@
-Welcome to the Just pay Api
+Welcome to the Api
 ===============================================
 
-This is an API for the Just pay web project
+This is an API for the web project
